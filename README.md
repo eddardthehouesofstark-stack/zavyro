@@ -847,42 +847,9 @@ CORS_ORIGINS=["http://localhost:5173"]
 
 ---
 
-## � License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Zavyro Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software...
-```
-
----
-
-## 🙏 Acknowledgements
-
-- **AICTE** - For the problem statement and domain expertise
-- **Smart India Hackathon 2024** - For providing the platform
-- **PaddlePaddle Team** - For the excellent OCR library
-- **Google Gemini** - For the powerful vision API
-- **Ultralytics** - For YOLOv11 object detection
-- **FastAPI Community** - For the amazing web framework
-- **React Team** - For the best UI library
-- **Open Source Community** - For countless libraries and tools
-
 ---
 
 <div align="center">
-
-### 🌟 Star this repository if you find it helpful!
-
-**Made with ❤️ for Smart India Hackathon 2024**
 
 **[⬆ Back to Top](#-aicte-eoa-verification-system)**
 

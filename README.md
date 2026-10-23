@@ -966,23 +966,6 @@ copies of the Software...
 
 ---
 
-## 📞 Support & Contact
-
-### 🐛 Report Issues
-Found a bug? [Open an issue](https://github.com/eddardthehouesofstark-stack/zavyro/issues)
-
-### 💡 Feature Requests
-Have an idea? [Request a feature](https://github.com/eddardthehouesofstark-stack/zavyro/issues/new?labels=enhancement)
-
-### 📧 Email Support
-For general inquiries: zavyro.support@example.com
-
-### 📱 Community
-- **Discord**: [Join our community](https://discord.gg/zavyro) *(Coming Soon)*
-- **Twitter**: [@zavyro_ai](https://twitter.com/zavyro_ai) *(Coming Soon)*
-
----
-
 <div align="center">
 
 ### 🌟 Star this repository if you find it helpful!

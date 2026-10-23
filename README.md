@@ -707,56 +707,6 @@ celery -A app.tasks.celery_worker worker --loglevel=info
 
 ---
 
-## 🔧 Environment Variables
-
-Create `.env` files in both frontend and backend directories.
-
-### Frontend `.env`
-
-```env
-VITE_API_BASE_URL=http://localhost:8000/api
-VITE_APP_NAME=Zavyro
-VITE_ENVIRONMENT=development
-```
-
-### Backend `.env`
-
-```env
-# Database
-DATABASE_URL=postgresql://user:password@localhost:5432/aicte_eoa
-
-# JWT
-SECRET_KEY=your-super-secret-jwt-key-change-this-in-production
-ALGORITHM=HS256
-ACCESS_TOKEN_EXPIRE_MINUTES=1440
-
-# Redis
-REDIS_URL=redis://localhost:6379/0
-
-# File Storage
-MINIO_ENDPOINT=localhost:9000
-MINIO_ACCESS_KEY=minioadmin
-MINIO_SECRET_KEY=minioadmin
-MINIO_BUCKET=aicte-eoa-documents
-
-# AI APIs
-GEMINI_API_KEY=your-gemini-api-key
-OPENAI_API_KEY=your-openai-api-key  # Optional
-
-# Email (Optional)
-SMTP_HOST=smtp.gmail.com
-SMTP_PORT=587
-SMTP_USERNAME=your-email@gmail.com
-SMTP_PASSWORD=your-app-password
-
-# Application
-DEBUG=true
-LOG_LEVEL=INFO
-CORS_ORIGINS=["http://localhost:5173"]
-```
-
----
-
 ## 🎬 Demo
 
 ### 🌐 Live Demo

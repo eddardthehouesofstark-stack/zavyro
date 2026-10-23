@@ -847,79 +847,7 @@ CORS_ORIGINS=["http://localhost:5173"]
 
 ---
 
-## 🗺️ Roadmap
-
-### Phase 1: MVP (Current)
-- [x] Basic authentication system
-- [x] Application upload interface
-- [ ] OCR integration (PaddleOCR)
-- [ ] Document classification (LayoutLMv3)
-- [ ] Officer dashboard
-- [ ] Simple verification report
-
-### Phase 2: AI Enhancement (Q2 2024)
-- [ ] Gemini Vision integration
-- [ ] YOLOv11 object detection
-- [ ] AICTE rule engine
-- [ ] Cross-document validation
-- [ ] Evidence-backed reports
-
-### Phase 3: Advanced Features (Q3 2024)
-- [ ] Batch processing
-- [ ] Real-time collaboration
-- [ ] Advanced analytics
-- [ ] Mobile app (React Native)
-- [ ] Multi-language support
-
-### Phase 4: Enterprise Deployment (Q4 2024)
-- [ ] Load testing (1000+ concurrent users)
-- [ ] Security audit
-- [ ] AICTE pilot deployment
-- [ ] Training modules for officers
-- [ ] Full production launch
-
----
-
-## 🤝 Contributing
-
-We welcome contributions from the community! Please follow these guidelines:
-
-### How to Contribute
-
-1. **Fork the repository**
-2. **Create a feature branch**
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. **Commit your changes**
-   ```bash
-   git commit -m 'Add some AmazingFeature'
-   ```
-4. **Push to the branch**
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
-5. **Open a Pull Request**
-
-### Contribution Guidelines
-
-- Follow existing code style (ESLint for frontend, Black for backend)
-- Write meaningful commit messages
-- Add tests for new features
-- Update documentation as needed
-- Ensure all tests pass before submitting PR
-
-### Areas We Need Help
-
-- [ ] Frontend UI/UX improvements
-- [ ] AI model fine-tuning
-- [ ] Performance optimization
-- [ ] Documentation improvements
-- [ ] Bug fixes and testing
-
----
-
-## 📄 License
+## � License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
@@ -934,22 +862,6 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software...
 ```
-
----
-
-## 👥 Authors
-
-### Development Team
-
-| Name | Role | GitHub | LinkedIn |
-|------|------|--------|----------|
-| **Team Lead** | Full Stack Developer | [@eddardthehouesofstark-stack](https://github.com/eddardthehouesofstark-stack) | [LinkedIn](#) |
-
-### Special Thanks
-
-- **AICTE** for the problem statement and guidance
-- **Smart India Hackathon** organizers for the platform
-- Open-source community for amazing tools
 
 ---
 

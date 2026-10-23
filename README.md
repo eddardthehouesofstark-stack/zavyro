@@ -757,25 +757,6 @@ CORS_ORIGINS=["http://localhost:5173"]
 
 ---
 
-## 📸 Screenshots
-
-### Login Page
-![Login](https://via.placeholder.com/800x450/667eea/ffffff?text=Login+Page)
-
-### Officer Dashboard
-![Dashboard](https://via.placeholder.com/800x450/667eea/ffffff?text=Officer+Dashboard)
-
-### Application List
-![Applications](https://via.placeholder.com/800x450/667eea/ffffff?text=Applications+List)
-
-### Document Verification
-![Verification](https://via.placeholder.com/800x450/667eea/ffffff?text=Document+Verification)
-
-### AI-Generated Report
-![Report](https://via.placeholder.com/800x450/667eea/ffffff?text=AI+Verification+Report)
-
----
-
 ## 🎬 Demo
 
 ### 🌐 Live Demo
